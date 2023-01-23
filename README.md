@@ -54,7 +54,7 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+
 
 ## Output:
 1.![1](https://user-images.githubusercontent.com/85949888/214057277-1ea7aeb0-4f17-4abb-8191-1d248467bc29.png)
