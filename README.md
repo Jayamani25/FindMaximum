@@ -54,6 +54,7 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
+![sample](https://user-images.githubusercontent.com/85949888/214058844-e12b368b-3e85-43f0-82f2-6576e851c9d3.png)
 
 
 ## Output:
